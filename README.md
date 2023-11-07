@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Triss2k3
 - 👀 I’m interested in HTML/CSS, UI
-- 🌱 I’m currently learning at HUFI
+- 🌱 I’m currently learning at HUIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact with me: nguyenminhtri42k3@gmail.com
 
